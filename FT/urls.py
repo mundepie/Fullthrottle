@@ -19,5 +19,6 @@ from transfer_info import views
 
 urlpatterns = [
     path('fullthrottle/',views.index, name = 'index'),
+    path('result/',views.result, name='result'),
     path('admin/', admin.site.urls),
 ]
