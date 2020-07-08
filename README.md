@@ -8,5 +8,7 @@ FT\transfer_info\templates\transfer-info: sets the template for the basic html w
 Used database: sqlite3
 
 urls:
+
 /fullthrottle: presents info of the database
+
 /results: presents the database information in json format
