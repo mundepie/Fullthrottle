@@ -9,7 +9,7 @@ from django.db import IntegrityError
 class Database:
     # populate the database
     def populatedb():
-        f = open("C:\\Users\DELL\\Desktop\\FT\\transfer_info\\Test.json")
+        f = open("Test.json")
         data = json.load(f)
         for i in range(len(data["members"])):
             id = data["members"][i]["id"]
