@@ -9,8 +9,8 @@ Used database: sqlite3
 
 urls:
 
-/fullthrottle: presents info of the database
+http://mundepie.pythonanywhere.com/fullthrottle/: presents info of the database
 
-/results: presents the database information in json format
+http://mundepie.pythonanywhere.com/result/: presents the database information in json format
 
 hosted live at http://mundepie.pythonanywhere.com/result/
