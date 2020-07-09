@@ -12,3 +12,5 @@ urls:
 /fullthrottle: presents info of the database
 
 /results: presents the database information in json format
+
+hosted live at http://mundepie.pythonanywhere.com/result/
